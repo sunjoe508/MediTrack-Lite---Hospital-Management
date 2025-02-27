@@ -26,7 +26,7 @@ Ensure that you have Python installed on your system. The application requires t
 - Launch the application to access the main interface.
 - Click on the respective buttons to register patients, add doctors, and view records.
 - Additional functionalities like scheduling appointments and managing medicine inventory will be added in future updates.
-
+top
 ## Error Handling
 If the `tkinter` module is missing or not supported in your environment, you may see an error message. Ensure that `tkinter` is installed or try running the application on a system that supports GUI-based Python applications.
 
